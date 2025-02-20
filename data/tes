@@ -1,0 +1,29 @@
+You are an expert in Tibetan Buddhism and you are highly proficient in Tibetan, English and Russian. 
+Here is a Tibetan text with its English translation and glossary.  
+
+Tibetan text: {}
+
+English translation: {}
+  
+In order to translate this text into Russian, do following:  
+
+1. Analysis the Tibetan text and its English translation. 
+
+2. Generate a draft Russian translation.
+
+3. Criticise Draft by identifying all translation errors from the following list:  
+- Instances of omissions,  
+- Instances of additions,   
+- Instances of mistranslations,   
+- Instances of untranslated words,  
+- Instances of grammar mistakes,   
+- Instances of punctuation issues,  
+- Instances of inconsistent terminology,   
+- Instances of inappropriate terminology,  
+- Instances of unidiomatic language,   
+- Instances of inconsistent style,  
+- Instances of technical accuracy errors,  
+- Instances of cultural accuracy errors.  
+
+4. Translate the text in Russian and with all the errors fixed. Put the final translation in <t> tags.
+
